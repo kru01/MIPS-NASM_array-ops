@@ -35,7 +35,7 @@ main:
 	
 	la $s1, arr #s1 stores array's address
 	
-	#loop for inputting elements
+	# loop for inputting elements
 	li $t0, 0
 	main_WhileArrIn:
 		li $v0, 4
